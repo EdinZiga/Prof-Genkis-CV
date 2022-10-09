@@ -1,0 +1,122 @@
+/*
+	For context, this was my first CV I made in July,2021
+	Edin Ziga - 190302192
+	Intended to be submitted for Project 3, CS412
+	November, 2021
+*/
+
+body{
+    background-image: url("Images/FreeVector-Brick-Wall-Pattern.jpg");
+}
+
+h3, li.nav-item{
+    color:#601303;
+    text-align-last:center;
+    font-family: 'Permanent Marker', cursive;
+}
+
+
+ul.navbar-nav,ul.SR,ul.BAR,ul.ED,ul.ACT, ol{
+    list-style:none;
+}
+
+
+
+a.nav-link{
+    color: rgb(0, 71, 0);
+}
+a.nav-link:visited{
+    color: #86b535;
+}
+a.nav-link:hover {
+    color: #601303;
+  }
+
+nav{
+    background-image: url("Images/depositphotos_18773511-stock-illustration-neutral-background.jpg");
+    margin: auto;
+    width: 100%;
+    border: 5px solid black;
+    box-sizing: border-box;
+    padding: 20px;
+    border-radius: 25px;
+}
+
+blockquote{
+    font-size: 120%;
+    text-align-last: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+       
+}
+
+li,h4,i,h5{
+       font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+        font-size: 20px;
+}
+div.PS, div.WE, div.SKL, div.ED,div.FS{
+    background-image: url("Images/depositphotos_18773511-stock-illustration-neutral-background.jpg");
+    margin: auto;
+    width: 80%;
+    border: 5px solid black;
+    box-sizing: border-box;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+div.CC,div.ffunder{
+    padding: 20px;
+    border-radius: 5px;
+    border:solid black 3px;
+    background-image: url("Images/white\ pattern.jpg");  
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    background-image: url("Images/white\ pattern.jpg");
+    border:solid black 3px;
+    border-radius: 5px;
+    border-bottom: solid white 2px;
+    color: #86b535;
+  }
+  
+.nav-link{
+color: rgb(0, 71, 0);
+}
+.nav-link:hover, .nav-link.active:hover{
+        color: #601303;
+}
+div.SKL, div.CON{
+    text-align: left;
+}
+div.SK{
+    border-left:1px solid black;
+    border-right:1px solid black;
+    padding-bottom: 30px;
+}
+div.CON{
+    background-image: url("Images/depositphotos_18773511-stock-illustration-neutral-background.jpg");
+    margin: auto;
+    width: 80%;
+    border: 5px solid black;
+    box-sizing: border-box;
+    padding: 20px;
+    border-radius: 20px;
+}
+div.CON p{
+    text-align: center;
+}
+div.ffunder{
+    text-align: center;
+}
+
+iframe{
+    margin: auto;
+    display: block;
+    height: 400px;
+    width: 100%;
+}
+footer{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    font-size: small;
+    text-align-last: right;
+}
