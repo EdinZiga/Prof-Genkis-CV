@@ -1,5 +1,5 @@
 # Prof. Genkis CV
- Github pages link: https://darkxscar.github.io/Prof-Genkis-CV/
+ Github pages link: https://edinziga.github.io/Prof-Genkis-CV/
 
 ## Description
  CV Template I made for CS412 Web App Development. Result of experimentation with different technologies.
